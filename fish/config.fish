@@ -1,4 +1,4 @@
-set -g fish_greeting
+set EDITOR "code"
 
 # venv stuff
 set VIRTUAL_ENV_DISABLE_PROMPT 1
