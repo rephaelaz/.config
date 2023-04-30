@@ -1,4 +1,11 @@
+# Mac stuff
 *.DS_Store
-neofetch/
+
+# Unwanted dirs
+Code/
+dconf/
+gtk-3.0/
 iterm2/
 qbittorrent/
+neofetch/
+yay/
