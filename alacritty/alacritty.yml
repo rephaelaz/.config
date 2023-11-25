@@ -1,0 +1,47 @@
+window:
+  padding:
+    x: 6
+    y: 6
+
+font:
+  normal:
+    family: DejaVuSansM Nerd Font Mono
+    style: Regular
+  bold:
+    family: DejaVuSansM Nerd Font Mono
+    style: Bold
+  italic:
+    family: DejaVuSansM Nerd Font Mono
+    style: Italic
+  bold_italic:
+    family: DejaVuSansM Nerd Font Mono
+    style: Bold Italic
+  size: 13.0
+
+cursor:
+  style: Beam
+
+colors:
+  primary:
+    background: '0x000000'
+    foreground: '0xd3d7cf'
+    
+  normal:
+    black: '0x000000'
+    red: '0xcc0000'
+    green: '0x4e9a06'
+    yellow: '0xc4a000'
+    blue: '0x3465a4'
+    magenta: '0x75507b'
+    cyan: '0x06989a'
+    white: '0xd3d7cf'
+
+  bright:
+    black: '0x555753'
+    red: '0xef2929'
+    green: '0x8ae234'
+    yellow: '0xfce94f'
+    blue: '0x729fcf'
+    magenta: '0xad7fa8'
+    cyan: '0x34e2e2'
+    white: '0xeeeeec'
