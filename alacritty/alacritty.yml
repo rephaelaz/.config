@@ -12,10 +12,10 @@ font:
     style: Bold
   italic:
     family: DejaVuSansM Nerd Font Mono
-    style: Italic
+    style: Oblique
   bold_italic:
     family: DejaVuSansM Nerd Font Mono
-    style: Bold Italic
+    style: Bold Oblique
   size: 13.0
 
 cursor:
